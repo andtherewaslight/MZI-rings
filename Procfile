@@ -1,1 +1,1 @@
-web: voila --Voila.tornado_settings='{"headers":{"Content-Security-Policy":"frame-ancestors self *" }}' --port=$PORT --Voila.ip=0.0.0.0 --no-browser --strip_sources=True --show_tracebacks=True --enable_nbextensions=True MZI_rings.ipynb
+web: voila --Voila.tornado_settings='{"headers":{"Content-Security-Policy":"frame-ancestors self *" }}' --port=$PORT --Voila.ip=0.0.0.0 --no-browser --strip_sources=True --enable_nbextensions=True MZI_rings.ipynb
